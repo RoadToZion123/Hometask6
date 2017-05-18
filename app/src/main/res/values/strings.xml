@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hometask6</string>
+    <string name="nav_hasky">Husky</string>
+    <string name="nav_labrador">Labrador</string>
+    <string name="nav_smiley">Custom View</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="nav_rv">Recycler View</string>
+    <string name="navigation_drawer_open">Drawer open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
